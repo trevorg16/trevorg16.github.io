@@ -6,7 +6,7 @@ I'm Trevor Gale, a computer programmer in Vancouver, British Columbia.
 
 ## Github Projects
 
-### Retro Computing Projects
+### Retrocomputing Projects
 
 #### Hard drive serial imager
 
