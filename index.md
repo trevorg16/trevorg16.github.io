@@ -6,6 +6,12 @@ I'm Trevor Gale, a computer programmer in Vancouver, British Columbia.
 
 ## Github Projects
 
+### Linux/POSIX Project
+
+#### Deduplicate
+
+[deduplicate](https://github.com/trevorg16/deduplicate) a TUI duplicate file finder inspired by NCDU.
+
 ### Retrocomputing Projects
 
 #### Hard drive serial imager
