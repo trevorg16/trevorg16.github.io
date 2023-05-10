@@ -1,4 +1,4 @@
-# Trevor Gale's Web Site
+# Trevor Gale's Projects
 
 ## About Me
 
