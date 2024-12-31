@@ -1,8 +1,8 @@
-# Trevor Gale's Projects
+# Trevor Gale&#x27;s Projects
 
 ## About Me
 
-I'm Trevor Gale, a computer programmer in Vancouver, British Columbia. 
+I&#x27;m Trevor Gale, a computer programmer in Vancouver, British Columbia. 
 
 ## Github Projects
 
